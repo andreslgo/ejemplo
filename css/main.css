@@ -21,6 +21,7 @@ header .content{
 header h1, header nav{
 	display: inline-block;
 	position: absolute;
+	color: white;
 }
 header h1{
 	left: 10px;
